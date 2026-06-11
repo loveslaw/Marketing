@@ -441,7 +441,7 @@ So, how do you get feedback? Here are a few resources to get you started:
 <br/><br/><br/>
 
 ## 👨‍💻 About
-👋Hi! I’m Edoardo and I help early-stage SaaS with product marketing.
+👋Hi! I’m Cherry and I help early-stage SaaS with product marketing.
 
 In short, I work 1-on-1 with founders to build a strong marketing foundation based on:
 - **Ideal Customer Profile** so you know who users are, why they care about your SaaS and how to find them.
@@ -450,4 +450,4 @@ In short, I work 1-on-1 with founders to build a strong marketing foundation bas
 - **Go to Market Strategy** to make sure you're doing the right things with Launches, SEO, Reddit, Social Media, Sales, Free Tools, Content, Affiliate programs and so on.
 
 
-_**Need 1-on-1 help with SaaS Marketing? Feel free to [DM me on X/Twitter](https://x.com/e_stradella)**_
+_**Need 1-on-1 help with SaaS Marketing? Feel free to [DM me on X/Twitter](https://x.com/durrehkuttiya)**_
